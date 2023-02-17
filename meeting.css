@@ -1,0 +1,48 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.lgdiv{
+    width: 200px;
+    height: 50px;
+    
+}
+.logo{
+    width: 90%;
+    height: 110px;
+    margin-top: -35px;
+}
+
+.nav2{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(254, 239, 195);
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+.dflex{
+    width: 380px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.img{
+    width: 170px;
+    height: 50px;
+}
+
+.but{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: rgb(26, 115, 232);
+    border: none;
+}
+
+.te{
+    background-color: red;
+}
